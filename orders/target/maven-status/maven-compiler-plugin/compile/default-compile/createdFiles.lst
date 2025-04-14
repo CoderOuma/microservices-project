@@ -1,6 +1,8 @@
 com\example\orders\dto\ProductDto.class
 com\example\orders\repository\OrderRepository.class
+com\example\orders\config\WebClientConfig.class
 com\example\orders\client\CustomerClient.class
+com\example\orders\config\RestTemplateConfig.class
 com\example\orders\dto\ProductDto$ProductDtoBuilder.class
 com\example\orders\dto\CustomerDto$CustomerDtoBuilder.class
 com\example\orders\dto\CustomerDto.class

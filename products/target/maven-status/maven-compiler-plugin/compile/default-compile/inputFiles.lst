@@ -1,5 +1,7 @@
+D:\Sol TP1 micro services\products\src\main\java\com\example\products\config\RestTemplateConfig.java
 D:\Sol TP1 micro services\products\src\main\java\com\example\products\service\ProductService.java
 D:\Sol TP1 micro services\products\src\main\java\com\example\products\repository\ProductRepository.java
+D:\Sol TP1 micro services\products\src\main\java\com\example\products\config\WebClientConfig.java
 D:\Sol TP1 micro services\products\src\main\java\com\example\products\ProductApplication.java
 D:\Sol TP1 micro services\products\src\main\java\com\example\products\model\Product.java
 D:\Sol TP1 micro services\products\src\main\java\com\example\products\controller\ProductController.java
